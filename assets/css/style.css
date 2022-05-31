@@ -1,0 +1,41 @@
+body {
+	background-image: url('../../assets/img/landing-background.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+.nav-item .nav-link{
+	color: #fff !important;
+}
+
+.nav-item .nav-link:hover {
+  color: #ffff00 !important;
+  border-bottom: 1px solid #ffff00;
+  margin-bottom: -1px;
+}
+
+.navbar span .btn {
+  border-color: #ffff00;
+  color: #ffff00;
+}
+
+.navbar span .btn:hover {
+  background-color: #fff;
+  color: #000;
+  border-color: #000;
+}
+
+.content1 {
+  padding-top: 100px;
+}
+
+.col-6 {
+  font-family: Syne Mono;
+}
+
+.col-6 h1 {
+  padding-top: 100px;
+}
